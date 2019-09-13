@@ -1,0 +1,31 @@
+---
+title: "Blogdown Journal"
+author: "I Joly"
+date: "12/09/2019"
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+# Synchronising with GitHub
+http://r-pkgs.had.co.nz/git.html#git-init
+
+# Top Tuto
+https://notes.peter-baumgartner.net/tutorial/blogdown-tutorial-part-4/
+
+
+# Références et Web Sites
+
++ https://github.com/Iragael38/
+
++ https://app.netlify.com/teams/ijoly-research/sites
+
+## Tuto
+
+https://support.rbind.io/2017/06/16/academic-site-apreshill/
+
+https://alison.rbind.io/post/2017-06-12-up-and-running-with-blogdown/
