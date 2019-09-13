@@ -29,6 +29,10 @@ knitr::opts_chunk$set(echo = TRUE)
 Des fois ça marche... d'autres moins
 
   
+## REste à voir 
+
+1. comment changer le thème hugo 'on live'
+2. Comment utiliser la clé de connexion ssh entre Rstudio et GitHub
 
 
 
