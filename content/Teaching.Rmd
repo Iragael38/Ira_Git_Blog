@@ -1,0 +1,17 @@
+---
+title: "My publications"
+author: "IJ"
+date: 2019-09-12
+categories: ["R"]
+tags: ["R Markdown", "plot", "regression"]
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(collapse = TRUE)
+```
+
+# Papier 1
+RÃ©fÃ©rence du papier
+
+# Papier 2
+RÃ©fÃ©rence du second papier
